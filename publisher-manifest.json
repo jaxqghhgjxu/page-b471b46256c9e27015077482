@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e11afde62e265c5e73f39c06",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-b471b46256c9e27015077482",
+  "title": "太阳网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b471b46256c9e27015077482",
+      "a": "太阳网络",
+      "b": "机场官网线路发布页",
+      "entity": "太阳网络",
+      "brand": "太阳网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4b62c0d483006a16a9ac3b771d6e4d352377e1acdac9e56d3510224e947dfc4d",
+      "content": {
+        "primary_entity": "太阳网络",
+        "keyword1": "太阳网络",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用太阳网络。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用太阳网络",
+          "AI_DESCRIPTION": "，太阳网络提供基础版、旗舰版与团队版三档方案，分别覆盖每月 100GB、300GB 与 1000GB 流量，支持 3 至 20 台设备同时在线。旗舰版自带 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对线路质量有要求的用户；团队版提供 VIP 专属高带宽节点与企业定制路由选项。客户端按设备系统选择，订阅配置请参照对应文档完成。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。若手机、平板、电脑同时使用，建议按实际在线数量选择对应档位。",
+          "AI_FAQ_ANSWER_2": "三个套餐流量分别为每月 100GB、300GB 与 1000GB。日常浏览与视频需求可选基础版，多设备高频使用建议旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "年付价格为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更省。长期使用可选年付方案。",
+          "AI_FAQ_ANSWER_4": "在设备对应的客户端中导入订阅链接即可。不同系统操作略有差异，参照对应客户端文档中的导入说明完成配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点，适合对延迟和带宽敏感的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量额度怎么选？",
+          "AI_FAQ_QUESTION_3": "年付方案比月付划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅配置在哪里完成？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些使用需求？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，快速定位合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按日常同时在线设备数选择即可。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 满足轻量使用，300GB 适合多设备日常，1000GB 面向高频高带宽场景。",
+          "AI_FEATURE_TEXT_3": "年付方案分别为 ¥150、¥350、¥850，长期使用选择年付更省心。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再对照客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "太阳网络提供基础版、旗舰版与团队版三档加速方案，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备在线需求。旗舰版搭载 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，按设备数量与使用场景选择即可。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省，最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，分别对应 100GB、300GB 与 1000GB 流量及 3、5、20 台设备。年付价格分别为 ¥150、¥350、¥850，按需要对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量需求，从基础版、旗舰版、团队版中选定合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路说明，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备客户端中参照文档导入订阅，完成节点与配置设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "太阳网络加速方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mbkzats.cn",
+    "host": "mbkzats.cn"
+  },
+  "file_hashes": {
+    "index.html": "6c6165980dca4b73df783fce0a07dfe84e383f013624d682ada9a328b7ce86a3",
+    "sitemap.xml": "3d16b60f45f1c1043b410ee41299cd7353b4f10ba84ea4d82679daed531a4590",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d0aa2a73570c5abca8980ba7118b57081017712e38d5b0163593ab88a557fcc8",
+    "robots.txt": "5d120b0ec3c18ea6a0f0ebf2318ef1e359253120b653bed848b96be405a82b1d",
+    "8740eebaebedaf556c6da14fc19469eb.txt": "754216c90ab46742afc5e1cb44e2e413f22c9107dd2aa1415c654615bf8ce621"
+  },
+  "revision": "ea0b576b07674737e777978fd6c13b96f4ec170568b1b33ac08bd871b861d78b"
+}

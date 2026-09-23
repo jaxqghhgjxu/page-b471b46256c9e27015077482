@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbkzats.cn/sitemap.xml
